@@ -1,1 +1,293 @@
-{"id":"1","nombre":"Tres dias ","descripcion":"prueba de base numero 1","nivel":"3B - 200","year":"1999"}
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Fashion",
+      "description": "Category for anything related to fashion.",
+      "created": "2014-06-01 00:35:07",
+      "modified": "2014-05-30 22:34:33"
+    },
+    {
+      "id": "2",
+      "name": "Electronicos",
+      "description": "Gadgets, drones and more.",
+      "created": "2014-06-01 00:35:07",
+      "modified": "2014-05-30 22:34:33"
+    },
+    {
+      "id": "3",
+      "name": "Motores",
+      "description": "Motor sports and more",
+      "created": "2014-06-01 00:35:07",
+      "modified": "2014-05-30 22:34:54"
+    },
+    {
+      "id": "5",
+      "name": "Peliculas",
+      "description": "Movie products.",
+      "created": "0000-00-00 00:00:00",
+      "modified": "2016-01-08 18:27:26"
+    },
+    {
+      "id": "6",
+      "name": "Libros",
+      "description": "Kindle books, audio books and more.",
+      "created": "0000-00-00 00:00:00",
+      "modified": "2016-01-08 18:27:47"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "LG P880 4X HD",
+      "description": "My first awesome phone!",
+      "price": "336",
+      "category_id": "3",
+      "user_id": "3",
+      "created": "2014-06-01 01:12:26",
+      "modified": "2014-05-31 22:12:26"
+    },
+    {
+      "id": "2",
+      "name": "Google Nexus 4",
+      "description": "The most awesome phone of 2013!",
+      "price": "299",
+      "category_id": "2",
+      "user_id": "2",
+      "created": "2014-06-01 01:12:26",
+      "modified": "2014-05-31 22:12:26"
+    },
+    {
+      "id": "4",
+      "name": "Bench Shirt",
+      "description": "The best shirt!",
+      "price": "29",
+      "category_id": "1",
+      "user_id": "1",
+      "created": "2014-06-01 01:12:26",
+      "modified": "2014-05-31 07:12:21"
+    },
+    {
+      "id": "5",
+      "name": "Lenovo Laptop",
+      "description": "My business partner.",
+      "price": "399",
+      "category_id": "2",
+      "user_id": "2",
+      "created": "2014-06-01 01:13:45",
+      "modified": "2014-05-31 07:13:39"
+    },
+    {
+      "id": "6",
+      "name": "Samsung Galaxy Tab 10.1",
+      "description": "Good tablet.",
+      "price": "259",
+      "category_id": "2",
+      "user_id": "2",
+      "created": "2014-06-01 01:14:13",
+      "modified": "2014-05-31 07:14:08"
+    },
+    {
+      "id": "7",
+      "name": "Spalding Watch",
+      "description": "My sports watch.",
+      "price": "199",
+      "category_id": "1",
+      "user_id": "1",
+      "created": "2014-06-01 01:18:36",
+      "modified": "2014-05-31 07:18:31"
+    },
+    {
+      "id": "8",
+      "name": "Sony Smart Watch",
+      "description": "The coolest smart watch!",
+      "price": "300",
+      "category_id": "2",
+      "user_id": "2",
+      "created": "2014-06-06 17:10:01",
+      "modified": "2014-06-05 23:09:51"
+    },
+    {
+      "id": "9",
+      "name": "Huawei Y300",
+      "description": "For testing purposes.",
+      "price": "100",
+      "category_id": "2",
+      "user_id": "2",
+      "created": "2014-06-06 17:11:04",
+      "modified": "2014-06-05 23:10:54"
+    },
+    {
+      "id": "10",
+      "name": "Abercrombie Lake Arnold Shirt",
+      "description": "Perfect as gift!",
+      "price": "60",
+      "category_id": "1",
+      "user_id": "1",
+      "created": "2014-06-06 17:12:21",
+      "modified": "2014-06-05 23:12:11"
+    },
+    {
+      "id": "11",
+      "name": "Abercrombie Allen Brook Shirt",
+      "description": "Cool red shirt!",
+      "price": "70",
+      "category_id": "1",
+      "user_id": "1",
+      "created": "2014-06-06 17:12:59",
+      "modified": "2014-06-05 23:12:49"
+    },
+    {
+      "id": "12",
+      "name": "Another product",
+      "description": "Awesome product!",
+      "price": "555",
+      "category_id": "2",
+      "user_id": "2",
+      "created": "2014-11-22 19:07:34",
+      "modified": "2014-11-22 01:07:34"
+    },
+    {
+      "id": "13",
+      "name": "Wallet",
+      "description": "You can absolutely use this one!",
+      "price": "799",
+      "category_id": "6",
+      "user_id": "4",
+      "created": "2014-12-04 21:12:03",
+      "modified": "2014-12-04 03:12:03"
+    },
+    {
+      "id": "14",
+      "name": "Amanda Waller Shirt",
+      "description": "New awesome shirt!",
+      "price": "333",
+      "category_id": "1",
+      "user_id": "1",
+      "created": "2014-12-13 00:52:54",
+      "modified": "2014-12-12 06:52:54"
+    },
+    {
+      "id": "15",
+      "name": "Nike Shoes for Men",
+      "description": "Nike Shoes",
+      "price": "12999",
+      "category_id": "3",
+      "user_id": "3",
+      "created": "2015-12-12 06:47:08",
+      "modified": "2015-12-12 10:47:08"
+    },
+    {
+      "id": "16",
+      "name": "Bristol Shoes",
+      "description": "Awesome shoes.",
+      "price": "999",
+      "category_id": "5",
+      "user_id": "5",
+      "created": "2016-01-08 06:36:37",
+      "modified": "2016-01-08 10:36:37"
+    },
+    {
+      "id": "17",
+      "name": "Rolex Watch",
+      "description": "Luxury watch.",
+      "price": "25000",
+      "category_id": "1",
+      "user_id": "1",
+      "created": "2016-01-11 15:46:02",
+      "modified": "2016-01-11 19:46:02"
+    },
+    {
+      "id": "18",
+      "name": "Pistashe",
+      "description": "Lo siembras y te crece y te da una plataforma y puedes alcanzar cosas altas",
+      "price": "123",
+      "category_id": "3",
+      "user_id": "1",
+      "created": "2018-08-15 23:31:57",
+      "modified": "2018-08-15 21:31:57"
+    },
+    {
+      "id": "20",
+      "name": "Huawei P20",
+      "description": "Lo vendo porque mi novio me lo regaló y ya no lo quiero :\\'v",
+      "price": "290",
+      "category_id": "2",
+      "user_id": "2",
+      "created": "2018-08-20 22:57:34",
+      "modified": "2018-08-20 20:57:34"
+    },
+    {
+      "id": "32",
+      "name": "Fankenstein",
+      "description": "La historia comienza con el capitán Robert Walton pasando el rato en San Petersburgo, Rusia, quizá por ahí a finales del siglo XXVIII. Está esperando un aventón al puerto de Arcangel, donde quiere contratar a algunos rusos para zarpar al Polo Norte. Por desgracia, el barco se queda atascado en hielo intransitable a cientos de kilómetros de tierra firme. ¡Qué aburrimiento! Sin nada que hacer, escribe cartas a su hermana en Inglaterra. ¿Cuál es su queja principal? Quiere un amigo que le haga compañía. (¿Y todos los marineros del barco? No, quiere un compañero digno).",
+      "price": "20",
+      "category_id": "6",
+      "user_id": "1",
+      "created": "2018-08-29 23:34:01",
+      "modified": "2018-08-29 21:34:01"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Fernando Salomón Procel Júpiter",
+      "user": "salo",
+      "password": "salo",
+      "created": "2014-06-01 00:35:07",
+      "modified": "2014-05-30 22:34:33",
+      "telefono": "0987852682",
+      "correo": "salo.procel@yopmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Evelyn Tamara Figueroa Navarro",
+      "user": "eve",
+      "password": "eve",
+      "created": "2014-06-01 00:35:07",
+      "modified": "2014-05-30 22:34:33",
+      "telefono": "0959352157",
+      "correo": "efigueroan@yopmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Laura Nathaly Zambrano Egas",
+      "user": "nathy",
+      "password": "nathy",
+      "created": "2014-06-01 00:35:07",
+      "modified": "2014-05-30 22:34:54",
+      "telefono": "0914287862",
+      "correo": "eworimita-6038@yopmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Angela Melania Jimenez Salas",
+      "user": "angy",
+      "password": "angy",
+      "created": "0000-00-00 00:00:00",
+      "modified": "2016-01-08 18:27:26",
+      "telefono": "0997521229",
+      "correo": "ynusinne-4370@yopmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Seiji Rebeca Ordóñez Patata",
+      "user": "seiji",
+      "password": "seiji",
+      "created": "0000-00-00 00:00:00",
+      "modified": "2016-01-08 18:27:47",
+      "telefono": "0688462181",
+      "correo": "xudeddimmic-3812@yopmail.com"
+    },
+    {
+      "id": "6",
+      "name": "samsung",
+      "user": "sam",
+      "password": "sam",
+      "created": "2018-08-30 00:16:31",
+      "modified": "2018-08-29 22:16:31",
+      "telefono": "0987365682",
+      "correo": "sam@yopmail.com"
+    }
+  ]
+}
